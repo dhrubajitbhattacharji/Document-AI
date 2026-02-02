@@ -1,0 +1,6 @@
+.env
+/layout.ipynb
+**/__pycache__
+/models
+/chroma_db
+/config.yaml
